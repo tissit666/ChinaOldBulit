@@ -1,0 +1,920 @@
+{
+  "beijing": {
+    "province": "北京",
+    "query": "北京 故宫太和殿 ???",
+    "models": [
+      {
+        "uid": "c354afbc1a4f428d80a26f5904d27fe6",
+        "title": "????_??????? Hall of Supreme Harmony",
+        "embedUrl": "https://sketchfab.com/models/c354afbc1a4f428d80a26f5904d27fe6/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/hall-of-supreme-harmony-c354afbc1a4f428d80a26f5904d27fe6?utm_medium=embed&utm_campaign=share-popup&utm_content=c354afbc1a4f428d80a26f5904d27fe6",
+        "author": "TRNKL"
+      },
+      {
+        "uid": "069d276a8b334a32b4993ec5dd2e278b",
+        "title": "冰墩墩和雪容融",
+        "embedUrl": "https://sketchfab.com/models/069d276a8b334a32b4993ec5dd2e278b/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-069d276a8b334a32b4993ec5dd2e278b",
+        "author": "小王子"
+      },
+      {
+        "uid": "979f877f9cfe4d45a19c733834f1a837",
+        "title": "Zhenguosi Monastery | Wanfo Hall",
+        "embedUrl": "https://sketchfab.com/models/979f877f9cfe4d45a19c733834f1a837/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-979f877f9cfe4d45a19c733834f1a837",
+        "author": "Digital Heritage Archive"
+      }
+    ]
+  },
+  "tianjin": {
+    "province": "天津",
+    "query": "天津 广东会馆 ???",
+    "models": [
+      {
+        "uid": "6881f87bef1a4e9db61fdd0a7030b9cf",
+        "title": "天目ぐい呑 / The universe in a cup",
+        "embedUrl": "https://sketchfab.com/models/6881f87bef1a4e9db61fdd0a7030b9cf/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-6881f87bef1a4e9db61fdd0a7030b9cf",
+        "author": "Atsushi Nakabayashi"
+      },
+      {
+        "uid": "9077203240c0433ab27a7adf5b2c1887",
+        "title": "天津长城（黄崖关）",
+        "embedUrl": "https://sketchfab.com/models/9077203240c0433ab27a7adf5b2c1887/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-9077203240c0433ab27a7adf5b2c1887",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "135a484f108e4f5c8942b22e5738cf94",
+        "title": "天津九山顶",
+        "embedUrl": "https://sketchfab.com/models/135a484f108e4f5c8942b22e5738cf94/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-135a484f108e4f5c8942b22e5738cf94",
+        "author": "tangbinbin"
+      }
+    ]
+  },
+  "hebei": {
+    "province": "河北",
+    "query": "河北 承德避暑山庄 ???",
+    "models": [
+      {
+        "uid": "718a6859db3e4c819ed0ee1a4addd8e2",
+        "title": "Chinese Jade Toad",
+        "embedUrl": "https://sketchfab.com/models/718a6859db3e4c819ed0ee1a4addd8e2/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-718a6859db3e4c819ed0ee1a4addd8e2",
+        "author": "cuiyamim"
+      },
+      {
+        "uid": "4afdd645e9074da7be70782e2cedab31",
+        "title": "北京长城（河北村-鹿皮关）",
+        "embedUrl": "https://sketchfab.com/models/4afdd645e9074da7be70782e2cedab31/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-4afdd645e9074da7be70782e2cedab31",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "b95ea26601fe4cc892914342af3197e2",
+        "title": "透雕龙凤",
+        "embedUrl": "https://sketchfab.com/models/b95ea26601fe4cc892914342af3197e2/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-b95ea26601fe4cc892914342af3197e2",
+        "author": "千珏"
+      }
+    ]
+  },
+  "shanxi": {
+    "province": "山西",
+    "query": "山西 佛光寺东大殿 ???",
+    "models": [
+      {
+        "uid": "b8571f923e404e8cbda11f2ea5ca5723",
+        "title": "Eleven-Headed Avalokitéshvara | 山西霍州十一面觀音摩崖石刻造像群",
+        "embedUrl": "https://sketchfab.com/models/b8571f923e404e8cbda11f2ea5ca5723/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-b8571f923e404e8cbda11f2ea5ca5723",
+        "author": "Digital Heritage Archive"
+      },
+      {
+        "uid": "6ce13d1606614eaebcd95ceecdd4b40f",
+        "title": "【Comb Sisters/自梳女/姑婆屋】佛山西樵益善堂（天井）",
+        "embedUrl": "https://sketchfab.com/models/6ce13d1606614eaebcd95ceecdd4b40f/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-6ce13d1606614eaebcd95ceecdd4b40f",
+        "author": "Old Media Art"
+      },
+      {
+        "uid": "1d6bbe7a63df44c5a47a720832cba331",
+        "title": "鉢伏山西峰古墳",
+        "embedUrl": "https://sketchfab.com/models/1d6bbe7a63df44c5a47a720832cba331/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-1d6bbe7a63df44c5a47a720832cba331",
+        "author": "shimada"
+      }
+    ]
+  },
+  "neimenggu": {
+    "province": "内蒙古",
+    "query": "内蒙古 大召寺 ???",
+    "models": [
+      {
+        "uid": "b21e591e60f84de5b81bf6ef1db1e7d3",
+        "title": "palm",
+        "embedUrl": "https://sketchfab.com/models/b21e591e60f84de5b81bf6ef1db1e7d3/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-b21e591e60f84de5b81bf6ef1db1e7d3",
+        "author": "averain"
+      },
+      {
+        "uid": "f7a3d44426474213915937fbb2c94d57",
+        "title": "clock1",
+        "embedUrl": "https://sketchfab.com/models/f7a3d44426474213915937fbb2c94d57/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-f7a3d44426474213915937fbb2c94d57",
+        "author": "averain"
+      },
+      {
+        "uid": "f91a3db97e0a41a791cdb2a1666aafa7",
+        "title": "tecsun r909",
+        "embedUrl": "https://sketchfab.com/models/f91a3db97e0a41a791cdb2a1666aafa7/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-f91a3db97e0a41a791cdb2a1666aafa7",
+        "author": "averain"
+      }
+    ]
+  },
+  "liaoning": {
+    "province": "辽宁",
+    "query": "辽宁 沈阳故宫 ???",
+    "models": [
+      {
+        "uid": "afb19cc2c8484fb9ab32672ae77802ff",
+        "title": "Liaoning Aircraft Carrier",
+        "embedUrl": "https://sketchfab.com/models/afb19cc2c8484fb9ab32672ae77802ff/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-afb19cc2c8484fb9ab32672ae77802ff",
+        "author": "孙嘉谡"
+      },
+      {
+        "uid": "d82f913d5d3e47129ad5676856b7b41b",
+        "title": "Aircraft carrier",
+        "embedUrl": "https://sketchfab.com/models/d82f913d5d3e47129ad5676856b7b41b/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-d82f913d5d3e47129ad5676856b7b41b",
+        "author": "huangzf"
+      },
+      {
+        "uid": "5b8e2840565e4a6a811502afcf8840c4",
+        "title": "辽宁岗山",
+        "embedUrl": "https://sketchfab.com/models/5b8e2840565e4a6a811502afcf8840c4/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-5b8e2840565e4a6a811502afcf8840c4",
+        "author": "tangbinbin"
+      }
+    ]
+  },
+  "jilin": {
+    "province": "吉林",
+    "query": "吉林 北山古庙群 ???",
+    "models": [
+      {
+        "uid": "139bb018c01145e697489aeb838a7bce",
+        "title": "Portrait of Françoise Gilot 3D",
+        "embedUrl": "https://sketchfab.com/models/139bb018c01145e697489aeb838a7bce/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-139bb018c01145e697489aeb838a7bce",
+        "author": "Eric Lynx Lin 林靖軒"
+      },
+      {
+        "uid": "1bc31a99c55d4f408109ecce7e64cd4c",
+        "title": "吉林大学南岭校区11公寓",
+        "embedUrl": "https://sketchfab.com/models/1bc31a99c55d4f408109ecce7e64cd4c/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-1bc31a99c55d4f408109ecce7e64cd4c",
+        "author": "luther2016"
+      },
+      {
+        "uid": "24e2a51cb75d4e23b11939f55bdfec7c",
+        "title": "吉林长白山白云峰",
+        "embedUrl": "https://sketchfab.com/models/24e2a51cb75d4e23b11939f55bdfec7c/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-24e2a51cb75d4e23b11939f55bdfec7c",
+        "author": "tangbinbin"
+      }
+    ]
+  },
+  "heilongjiang": {
+    "province": "黑龙江",
+    "query": "黑龙江 哈尔滨文庙 ???",
+    "models": [
+      {
+        "uid": "72f29ad5ec074082bc51e98fdc5a3b4d",
+        "title": "Chinese PLAN Pr68-bis Cruiser Modernization(黑龙江)",
+        "embedUrl": "https://sketchfab.com/models/72f29ad5ec074082bc51e98fdc5a3b4d/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-72f29ad5ec074082bc51e98fdc5a3b4d",
+        "author": "全斗焕"
+      },
+      {
+        "uid": "36366d1fd20b4774842bc12489c78687",
+        "title": "黑龙江-绥化新奥",
+        "embedUrl": "https://sketchfab.com/models/36366d1fd20b4774842bc12489c78687/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-36366d1fd20b4774842bc12489c78687",
+        "author": "Robert"
+      },
+      {
+        "uid": "6765b39fb8fc4c04bb84742aca2d68b5",
+        "title": "宝蓝缎盘金龙凤纹阑干裙",
+        "embedUrl": "https://sketchfab.com/models/6765b39fb8fc4c04bb84742aca2d68b5/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-6765b39fb8fc4c04bb84742aca2d68b5",
+        "author": "中华服饰博物馆"
+      }
+    ]
+  },
+  "shanghai": {
+    "province": "上海",
+    "query": "上海 豫园 ???",
+    "models": [
+      {
+        "uid": "a3111cf5960b47b28e308db9e6e43325",
+        "title": "Futuristic Sci-fi Metro Station Modular Unit",
+        "embedUrl": "https://sketchfab.com/models/a3111cf5960b47b28e308db9e6e43325/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-a3111cf5960b47b28e308db9e6e43325",
+        "author": "S4Vvy"
+      },
+      {
+        "uid": "d5a82d2b31904052aa928d627cdc18d3",
+        "title": "Zhenru Temple Pagoda",
+        "embedUrl": "https://sketchfab.com/models/d5a82d2b31904052aa928d627cdc18d3/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-d5a82d2b31904052aa928d627cdc18d3",
+        "author": "Tigershill"
+      },
+      {
+        "uid": "63a26dd9d0e34fadbaedd076652b5f44",
+        "title": "skate park sculpture",
+        "embedUrl": "https://sketchfab.com/models/63a26dd9d0e34fadbaedd076652b5f44/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-63a26dd9d0e34fadbaedd076652b5f44",
+        "author": "Tigershill"
+      }
+    ]
+  },
+  "jiangsu": {
+    "province": "江苏",
+    "query": "江苏 拙政园 ???",
+    "models": [
+      {
+        "uid": "d7bbc24e3c284774b5df5ff000957d2f",
+        "title": "Rental e-bike china",
+        "embedUrl": "https://sketchfab.com/models/d7bbc24e3c284774b5df5ff000957d2f/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-d7bbc24e3c284774b5df5ff000957d2f",
+        "author": "derhenryschmidt"
+      },
+      {
+        "uid": "91ab33da43d74a0b9a9c1fd0e0079583",
+        "title": "江苏云台山玉女峰",
+        "embedUrl": "https://sketchfab.com/models/91ab33da43d74a0b9a9c1fd0e0079583/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-91ab33da43d74a0b9a9c1fd0e0079583",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "acc780ae60a848f7a70afa6fdea5fc20",
+        "title": "E-bike china",
+        "embedUrl": "https://sketchfab.com/models/acc780ae60a848f7a70afa6fdea5fc20/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-acc780ae60a848f7a70afa6fdea5fc20",
+        "author": "derhenryschmidt"
+      }
+    ]
+  },
+  "zhejiang": {
+    "province": "浙江",
+    "query": "浙江 保国寺 ???",
+    "models": [
+      {
+        "uid": "3ed272300c9b44179ca41f42706eb5ae",
+        "title": "Main Hall of Tianning Temple (天宁寺大殿)",
+        "embedUrl": "https://sketchfab.com/models/3ed272300c9b44179ca41f42706eb5ae/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-3ed272300c9b44179ca41f42706eb5ae",
+        "author": "邵青"
+      },
+      {
+        "uid": "51e3546d517840ee99ffd912b491c0a8",
+        "title": "水元神社薩摩塔　Ver.2　鹿児島県南九州市",
+        "embedUrl": "https://sketchfab.com/models/51e3546d517840ee99ffd912b491c0a8/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-51e3546d517840ee99ffd912b491c0a8",
+        "author": "kofun"
+      },
+      {
+        "uid": "070a6dd654f34793a1480ce7415cfa60",
+        "title": "浙江黄茅尖",
+        "embedUrl": "https://sketchfab.com/models/070a6dd654f34793a1480ce7415cfa60/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-070a6dd654f34793a1480ce7415cfa60",
+        "author": "tangbinbin"
+      }
+    ]
+  },
+  "anhui": {
+    "province": "安徽",
+    "query": "安徽 宏村 ???",
+    "models": [
+      {
+        "uid": "c831d1a4ee114d50b7423fd314ea2b9e",
+        "title": "Stone lion",
+        "embedUrl": "https://sketchfab.com/models/c831d1a4ee114d50b7423fd314ea2b9e/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-c831d1a4ee114d50b7423fd314ea2b9e",
+        "author": "Tigershill"
+      },
+      {
+        "uid": "426ec858dca7470f985101f7e513fea3",
+        "title": "安徽黄山莲花峰",
+        "embedUrl": "https://sketchfab.com/models/426ec858dca7470f985101f7e513fea3/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-426ec858dca7470f985101f7e513fea3",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "6e3d2af6f47844de930ddd67c3c7d9d1",
+        "title": "Drum Stand with dragon and tiger design",
+        "embedUrl": "https://sketchfab.com/models/6e3d2af6f47844de930ddd67c3c7d9d1/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-6e3d2af6f47844de930ddd67c3c7d9d1",
+        "author": "Tigershill"
+      }
+    ]
+  },
+  "fujian": {
+    "province": "福建",
+    "query": "福建 永定土楼 ???",
+    "models": [
+      {
+        "uid": "647f1b2daedb4cd1bcc6198702ea98a4",
+        "title": "福建永定土楼集庆楼Ancient Chinese dwellings, Fujian Tulou",
+        "embedUrl": "https://sketchfab.com/models/647f1b2daedb4cd1bcc6198702ea98a4/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-647f1b2daedb4cd1bcc6198702ea98a4",
+        "author": "haibo"
+      },
+      {
+        "uid": "4c7efcb40bfd47ad937ecece230dde2f",
+        "title": "福建东关寨畲族村古建筑",
+        "embedUrl": "https://sketchfab.com/models/4c7efcb40bfd47ad937ecece230dde2f/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-4c7efcb40bfd47ad937ecece230dde2f",
+        "author": "haibo"
+      },
+      {
+        "uid": "6f6455f3be704b969c8cea0421386cad",
+        "title": "福建万佛寺建模 Thousands Buddha Temple",
+        "embedUrl": "https://sketchfab.com/models/6f6455f3be704b969c8cea0421386cad/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-6f6455f3be704b969c8cea0421386cad",
+        "author": "QXY"
+      }
+    ]
+  },
+  "jiangxi": {
+    "province": "江西",
+    "query": "江西 白鹿洞书院 ???",
+    "models": [
+      {
+        "uid": "059ab4cd021f45bc9cf90ecf9ee7585b",
+        "title": "大型图书馆",
+        "embedUrl": "https://sketchfab.com/models/059ab4cd021f45bc9cf90ecf9ee7585b/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-059ab4cd021f45bc9cf90ecf9ee7585b",
+        "author": "ilujingi"
+      },
+      {
+        "uid": "cf42ada999f14be794abd44fa398a5ac",
+        "title": "鲁班像",
+        "embedUrl": "https://sketchfab.com/models/cf42ada999f14be794abd44fa398a5ac/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-cf42ada999f14be794abd44fa398a5ac",
+        "author": "ilujingi"
+      },
+      {
+        "uid": "cf66f29537b543908b43b3f07a7f10dc",
+        "title": "江西、福建武夷山黄岗山",
+        "embedUrl": "https://sketchfab.com/models/cf66f29537b543908b43b3f07a7f10dc/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-cf66f29537b543908b43b3f07a7f10dc",
+        "author": "tangbinbin"
+      }
+    ]
+  },
+  "shandong": {
+    "province": "山东",
+    "query": "山东 蓬莱阁 ???",
+    "models": [
+      {
+        "uid": "c6dc4730d58044538e8a8313c5ee70fd",
+        "title": "山东建筑大学",
+        "embedUrl": "https://sketchfab.com/models/c6dc4730d58044538e8a8313c5ee70fd/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-c6dc4730d58044538e8a8313c5ee70fd",
+        "author": "wolf141"
+      },
+      {
+        "uid": "bf864fca664f40a38319e041825581c9",
+        "title": "山东泰山玉皇顶",
+        "embedUrl": "https://sketchfab.com/models/bf864fca664f40a38319e041825581c9/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-bf864fca664f40a38319e041825581c9",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "d801f03c063f4b3d825490ae8fe6c5ff",
+        "title": "河北小五台山东台",
+        "embedUrl": "https://sketchfab.com/models/d801f03c063f4b3d825490ae8fe6c5ff/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-d801f03c063f4b3d825490ae8fe6c5ff",
+        "author": "tangbinbin"
+      }
+    ]
+  },
+  "henan": {
+    "province": "河南",
+    "query": "河南 少林寺 ???",
+    "models": [
+      {
+        "uid": "43828aeba6a2402fb8b79eb862835f36",
+        "title": "Auditorium of Henan University (河南大学大礼堂)",
+        "embedUrl": "https://sketchfab.com/models/43828aeba6a2402fb8b79eb862835f36/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-43828aeba6a2402fb8b79eb862835f36",
+        "author": "邵青"
+      },
+      {
+        "uid": "b8d332f11e6a4556b86e5a9e51e0c379",
+        "title": "河南老鸦岔垴",
+        "embedUrl": "https://sketchfab.com/models/b8d332f11e6a4556b86e5a9e51e0c379/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-b8d332f11e6a4556b86e5a9e51e0c379",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "d9f7f665bed343ac96259af4d5049fd1",
+        "title": "祥瑞狮子",
+        "embedUrl": "https://sketchfab.com/models/d9f7f665bed343ac96259af4d5049fd1/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-d9f7f665bed343ac96259af4d5049fd1",
+        "author": "StarDragon_lx"
+      }
+    ]
+  },
+  "hubei": {
+    "province": "湖北",
+    "query": "湖北 黄鹤楼 ???",
+    "models": [
+      {
+        "uid": "f2cd71f1968e42ddac51d9deb4ecc69e",
+        "title": "湖北神农顶",
+        "embedUrl": "https://sketchfab.com/models/f2cd71f1968e42ddac51d9deb4ecc69e/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-f2cd71f1968e42ddac51d9deb4ecc69e",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "a2ca0a5ee7944b0085b4a4fa454f8444",
+        "title": "Bronze horse",
+        "embedUrl": "https://sketchfab.com/models/a2ca0a5ee7944b0085b4a4fa454f8444/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-a2ca0a5ee7944b0085b4a4fa454f8444",
+        "author": "Tigershill"
+      },
+      {
+        "uid": "bc9a20a49b1147dfaf6127c1ddfce1be",
+        "title": "泰山石",
+        "embedUrl": "https://sketchfab.com/models/bc9a20a49b1147dfaf6127c1ddfce1be/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-bc9a20a49b1147dfaf6127c1ddfce1be",
+        "author": "Lpx990606"
+      }
+    ]
+  },
+  "hunan": {
+    "province": "湖南",
+    "query": "湖南 岳阳楼 ???",
+    "models": [
+      {
+        "uid": "b753db6f91794a3dbc4ea92f11087c39",
+        "title": "Elephant-shaped bronze Zun container",
+        "embedUrl": "https://sketchfab.com/models/b753db6f91794a3dbc4ea92f11087c39/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-b753db6f91794a3dbc4ea92f11087c39",
+        "author": "Tigershill"
+      },
+      {
+        "uid": "c7999f9ae104450a8004d541b4d27716",
+        "title": "哪吒闹海 阴沉木雕 Nezha Conquers the Dragon King",
+        "embedUrl": "https://sketchfab.com/models/c7999f9ae104450a8004d541b4d27716/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-c7999f9ae104450a8004d541b4d27716",
+        "author": "HUNNU Culture Heritage Digital Center湖南师大文化遗产数字化中心"
+      },
+      {
+        "uid": "30637795e8d94254a9fb1601dbf0cfc1",
+        "title": "湖南酃峰",
+        "embedUrl": "https://sketchfab.com/models/30637795e8d94254a9fb1601dbf0cfc1/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-30637795e8d94254a9fb1601dbf0cfc1",
+        "author": "tangbinbin"
+      }
+    ]
+  },
+  "guangdong": {
+    "province": "广东",
+    "query": "广东 陈家祠 ???",
+    "models": [
+      {
+        "uid": "0b1a889fd16c4c2e930923eb1dc2bea4",
+        "title": "陈家祠",
+        "embedUrl": "https://sketchfab.com/models/0b1a889fd16c4c2e930923eb1dc2bea4/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-0b1a889fd16c4c2e930923eb1dc2bea4",
+        "author": "ldaa"
+      },
+      {
+        "uid": "881bcb933ebd4af18c43e5c376339411",
+        "title": "Chinese PLANavy Aircraft Carrier GUANGDONG 广东舰",
+        "embedUrl": "https://sketchfab.com/models/881bcb933ebd4af18c43e5c376339411/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-881bcb933ebd4af18c43e5c376339411",
+        "author": "全斗焕"
+      },
+      {
+        "uid": "47f61aa4e6e44eb09f82b468b8286f68",
+        "title": "THINKER",
+        "embedUrl": "https://sketchfab.com/models/47f61aa4e6e44eb09f82b468b8286f68/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-47f61aa4e6e44eb09f82b468b8286f68",
+        "author": "gzxujh"
+      }
+    ]
+  },
+  "guangxi": {
+    "province": "广西",
+    "query": "广西 程阳风雨桥 ???",
+    "models": [
+      {
+        "uid": "291b04f7c50141fcb680868cd68fcf39",
+        "title": "广西猫儿山",
+        "embedUrl": "https://sketchfab.com/models/291b04f7c50141fcb680868cd68fcf39/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-291b04f7c50141fcb680868cd68fcf39",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "c1747bc171d743549d31eec4497991e5",
+        "title": "广西-文山",
+        "embedUrl": "https://sketchfab.com/models/c1747bc171d743549d31eec4497991e5/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-c1747bc171d743549d31eec4497991e5",
+        "author": "Robert"
+      },
+      {
+        "uid": "847d97a140d14bf7acbe356cfd1f74fb",
+        "title": "广西自宅",
+        "embedUrl": "https://sketchfab.com/models/847d97a140d14bf7acbe356cfd1f74fb/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-847d97a140d14bf7acbe356cfd1f74fb",
+        "author": "microinspire"
+      }
+    ]
+  },
+  "hainan": {
+    "province": "海南",
+    "query": "海南 骑楼老街 ???",
+    "models": [
+      {
+        "uid": "c7999f9ae104450a8004d541b4d27716",
+        "title": "哪吒闹海 阴沉木雕 Nezha Conquers the Dragon King",
+        "embedUrl": "https://sketchfab.com/models/c7999f9ae104450a8004d541b4d27716/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-c7999f9ae104450a8004d541b4d27716",
+        "author": "HUNNU Culture Heritage Digital Center湖南师大文化遗产数字化中心"
+      },
+      {
+        "uid": "2f00ff54ed874bafa07d686a2ee94e7e",
+        "title": "海南五指山二峰",
+        "embedUrl": "https://sketchfab.com/models/2f00ff54ed874bafa07d686a2ee94e7e/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-2f00ff54ed874bafa07d686a2ee94e7e",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "65084cd519324260acccc6256c4d23aa",
+        "title": "北極海鸚",
+        "embedUrl": "https://sketchfab.com/models/65084cd519324260acccc6256c4d23aa/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-65084cd519324260acccc6256c4d23aa",
+        "author": "irvinlin"
+      }
+    ]
+  },
+  "chongqing": {
+    "province": "重庆",
+    "query": "重庆 湖广会馆 ???",
+    "models": [
+      {
+        "uid": "8ac82a87f0e942238538051ac7bf9a8b",
+        "title": "重财路灯",
+        "embedUrl": "https://sketchfab.com/models/8ac82a87f0e942238538051ac7bf9a8b/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-8ac82a87f0e942238538051ac7bf9a8b",
+        "author": "zyxa628"
+      },
+      {
+        "uid": "97c2b444b2b14d0e9cd778bfe515eebc",
+        "title": "重庆阴条岭",
+        "embedUrl": "https://sketchfab.com/models/97c2b444b2b14d0e9cd778bfe515eebc/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-97c2b444b2b14d0e9cd778bfe515eebc",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "bc339cce3edc4024ae39aadbc6c1fe67",
+        "title": "Drumming,talking and singing figurine",
+        "embedUrl": "https://sketchfab.com/models/bc339cce3edc4024ae39aadbc6c1fe67/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-bc339cce3edc4024ae39aadbc6c1fe67",
+        "author": "Tigershill"
+      }
+    ]
+  },
+  "sichuan": {
+    "province": "四川",
+    "query": "四川 青城山建筑群 ???",
+    "models": [
+      {
+        "uid": "4cb2e552435648f8ace6b40aa5e8ad71",
+        "title": "Potalaka Avalokiteshvara | 普陀洛迦觀世音",
+        "embedUrl": "https://sketchfab.com/models/4cb2e552435648f8ace6b40aa5e8ad71/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-4cb2e552435648f8ace6b40aa5e8ad71",
+        "author": "Digital Heritage Archive"
+      },
+      {
+        "uid": "1e43c907cc8a49d1abbba5d5d9b328c3",
+        "title": "大佛寺第二窟菩萨像",
+        "embedUrl": "https://sketchfab.com/models/1e43c907cc8a49d1abbba5d5d9b328c3/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-1e43c907cc8a49d1abbba5d5d9b328c3",
+        "author": "DBA"
+      },
+      {
+        "uid": "cd7a83ca60ce44439d18fdc3b654a876",
+        "title": "四川贡嘎山",
+        "embedUrl": "https://sketchfab.com/models/cd7a83ca60ce44439d18fdc3b654a876/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-cd7a83ca60ce44439d18fdc3b654a876",
+        "author": "tangbinbin"
+      }
+    ]
+  },
+  "guizhou": {
+    "province": "贵州",
+    "query": "贵州 西江苗寨 ???",
+    "models": [
+      {
+        "uid": "86decb4cd85c4c5cba196e1b2c49bc23",
+        "title": "贵州韭菜坪",
+        "embedUrl": "https://sketchfab.com/models/86decb4cd85c4c5cba196e1b2c49bc23/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-86decb4cd85c4c5cba196e1b2c49bc23",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "ff8fed0cc0d04bd481ea019853e71dc2",
+        "title": "贵州银币",
+        "embedUrl": "https://sketchfab.com/models/ff8fed0cc0d04bd481ea019853e71dc2/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-ff8fed0cc0d04bd481ea019853e71dc2",
+        "author": "sketchfab3D3"
+      },
+      {
+        "uid": "0fe847b5bfde4c139959b17e5dfd3036",
+        "title": "民国十九年钱币",
+        "embedUrl": "https://sketchfab.com/models/0fe847b5bfde4c139959b17e5dfd3036/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-0fe847b5bfde4c139959b17e5dfd3036",
+        "author": "haixionglee"
+      }
+    ]
+  },
+  "yunnan": {
+    "province": "云南",
+    "query": "云南 丽江古城 ???",
+    "models": [
+      {
+        "uid": "a7a832ea8c674eeabb9b00463f91003f",
+        "title": "云南剑川石窟石宝山第一窟",
+        "embedUrl": "https://sketchfab.com/models/a7a832ea8c674eeabb9b00463f91003f/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-a7a832ea8c674eeabb9b00463f91003f",
+        "author": "DBA"
+      },
+      {
+        "uid": "c3c857ba4138411bba00b36dfe6280ae",
+        "title": "Villagehouse Yunnan 云南农村家",
+        "embedUrl": "https://sketchfab.com/models/c3c857ba4138411bba00b36dfe6280ae/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-c3c857ba4138411bba00b36dfe6280ae",
+        "author": "Franzen"
+      },
+      {
+        "uid": "ac352e1c9f434bd6821924f4b9038cc8",
+        "title": "云南卡瓦格博峰",
+        "embedUrl": "https://sketchfab.com/models/ac352e1c9f434bd6821924f4b9038cc8/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-ac352e1c9f434bd6821924f4b9038cc8",
+        "author": "tangbinbin"
+      }
+    ]
+  },
+  "xizang": {
+    "province": "西藏",
+    "query": "西藏 布达拉宫 ???",
+    "models": [
+      {
+        "uid": "79be0d2cf3da4509bb774b7a9b5d55e1",
+        "title": "西藏珠穆朗玛峰",
+        "embedUrl": "https://sketchfab.com/models/79be0d2cf3da4509bb774b7a9b5d55e1/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-79be0d2cf3da4509bb774b7a9b5d55e1",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "bb2dac6a5df04771bfb679cf2c9c095b",
+        "title": "Tibet Religious props",
+        "embedUrl": "https://sketchfab.com/models/bb2dac6a5df04771bfb679cf2c9c095b/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-bb2dac6a5df04771bfb679cf2c9c095b",
+        "author": "YJW"
+      },
+      {
+        "uid": "898afd64fc96471aaa56bf5d9c0fb594",
+        "title": "Monk-Combat preparation",
+        "embedUrl": "https://sketchfab.com/models/898afd64fc96471aaa56bf5d9c0fb594/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-898afd64fc96471aaa56bf5d9c0fb594",
+        "author": "YJW"
+      }
+    ]
+  },
+  "shaanxi": {
+    "province": "陕西",
+    "query": "陕西 大雁塔 ???",
+    "models": [
+      {
+        "uid": "8ebecb36f03f4d4ba9793ea4a72975f6",
+        "title": "酒神骆驼",
+        "embedUrl": "https://sketchfab.com/models/8ebecb36f03f4d4ba9793ea4a72975f6/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-8ebecb36f03f4d4ba9793ea4a72975f6",
+        "author": "邵青"
+      },
+      {
+        "uid": "09aac2f84bb74006aba57068a9881d3a",
+        "title": "陕西-西安-钟楼-[因为限飞,只有一半]",
+        "embedUrl": "https://sketchfab.com/models/09aac2f84bb74006aba57068a9881d3a/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-09aac2f84bb74006aba57068a9881d3a",
+        "author": "刘志强"
+      },
+      {
+        "uid": "b7521ed4d7234dd5bdf911d61e930e44",
+        "title": "陕西-延安-宝塔山-摘星楼",
+        "embedUrl": "https://sketchfab.com/models/b7521ed4d7234dd5bdf911d61e930e44/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-b7521ed4d7234dd5bdf911d61e930e44",
+        "author": "刘志强"
+      }
+    ]
+  },
+  "gansu": {
+    "province": "甘肃",
+    "query": "甘肃 麦积山石窟 ???",
+    "models": [
+      {
+        "uid": "599aa64fd5c040a9b3caeac9c952132b",
+        "title": "甘肃团结峰",
+        "embedUrl": "https://sketchfab.com/models/599aa64fd5c040a9b3caeac9c952132b/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-599aa64fd5c040a9b3caeac9c952132b",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "6a6cf6476b8f4aada07ce40dcf8d28e4",
+        "title": "洮砚 - Tao Yan - Chinese Inkstone （Ink slab）",
+        "embedUrl": "https://sketchfab.com/models/6a6cf6476b8f4aada07ce40dcf8d28e4/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-6a6cf6476b8f4aada07ce40dcf8d28e4",
+        "author": "virtualpin"
+      },
+      {
+        "uid": "7ce286e1cf9c467f91c9560db7383590",
+        "title": "庄50，8回次，46块1947.6",
+        "embedUrl": "https://sketchfab.com/models/7ce286e1cf9c467f91c9560db7383590/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-7ce286e1cf9c467f91c9560db7383590",
+        "author": "Lpx990606"
+      }
+    ]
+  },
+  "qinghai": {
+    "province": "青海",
+    "query": "青海 塔尔寺 ???",
+    "models": [
+      {
+        "uid": "603d52e30ea043e4b2800ce0dccf6a1f",
+        "title": "Lenghu Town, Qinghai 青海冷湖小镇",
+        "embedUrl": "https://sketchfab.com/models/603d52e30ea043e4b2800ce0dccf6a1f/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-603d52e30ea043e4b2800ce0dccf6a1f",
+        "author": "Old Media Art"
+      },
+      {
+        "uid": "e2942335373246278b29ee0676422cf8",
+        "title": "A photogrammetry mountain in northwest China 黑独山",
+        "embedUrl": "https://sketchfab.com/models/e2942335373246278b29ee0676422cf8/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-e2942335373246278b29ee0676422cf8",
+        "author": "Old Media Art"
+      },
+      {
+        "uid": "40e9713881654c57a30508248305298d",
+        "title": "海青の陶器",
+        "embedUrl": "https://sketchfab.com/models/40e9713881654c57a30508248305298d/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-40e9713881654c57a30508248305298d",
+        "author": "248m"
+      }
+    ]
+  },
+  "ningxia": {
+    "province": "宁夏",
+    "query": "宁夏 承天寺塔 ???",
+    "models": [
+      {
+        "uid": "2c01eecc7899452a9a5b60a2cf100780",
+        "title": "鎏金银壶",
+        "embedUrl": "https://sketchfab.com/models/2c01eecc7899452a9a5b60a2cf100780/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-2c01eecc7899452a9a5b60a2cf100780",
+        "author": "邵青"
+      },
+      {
+        "uid": "81ba7242b47b43dabc5ce19901069246",
+        "title": "宁夏回族自治区样式1",
+        "embedUrl": "https://sketchfab.com/models/81ba7242b47b43dabc5ce19901069246/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-81ba7242b47b43dabc5ce19901069246",
+        "author": "431433383"
+      },
+      {
+        "uid": "badf9ef647ef471b9812a10f9a172099",
+        "title": "宁夏回族自治区人民政府驻京办事处",
+        "embedUrl": "https://sketchfab.com/models/badf9ef647ef471b9812a10f9a172099/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-badf9ef647ef471b9812a10f9a172099",
+        "author": "26858555"
+      }
+    ]
+  },
+  "xinjiang": {
+    "province": "新疆",
+    "query": "新疆 艾提尕尔清真寺 ???",
+    "models": [
+      {
+        "uid": "232ca98290384a11a16efd0a8cb97a32",
+        "title": "新疆乔戈里峰",
+        "embedUrl": "https://sketchfab.com/models/232ca98290384a11a16efd0a8cb97a32/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-232ca98290384a11a16efd0a8cb97a32",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "8d0f708c784947df9bc7bc3db54bf483",
+        "title": "XXL300-3DS Max-0-300+",
+        "embedUrl": "https://sketchfab.com/models/8d0f708c784947df9bc7bc3db54bf483/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-8d0f708c784947df9bc7bc3db54bf483",
+        "author": "TG13730"
+      },
+      {
+        "uid": "045a262a775d4c3daa10e188d5dc537e",
+        "title": "和田玉籽料",
+        "embedUrl": "https://sketchfab.com/models/045a262a775d4c3daa10e188d5dc537e/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-045a262a775d4c3daa10e188d5dc537e",
+        "author": "桂林理工大学地质博物馆Geological Museum"
+      }
+    ]
+  },
+  "taiwan": {
+    "province": "台湾",
+    "query": "台湾 龙山寺 ???",
+    "models": [
+      {
+        "uid": "1c727c7db489494c94bd2a99aa4724c9",
+        "title": "台湾西門交差点のオブジェ",
+        "embedUrl": "https://sketchfab.com/models/1c727c7db489494c94bd2a99aa4724c9/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-1c727c7db489494c94bd2a99aa4724c9",
+        "author": "dj_kinako"
+      },
+      {
+        "uid": "49a3a242f2a1496dbbd47a1fb0e60d0e",
+        "title": "Taiwan Plastic Chair that can be seen everywhere",
+        "embedUrl": "https://sketchfab.com/models/49a3a242f2a1496dbbd47a1fb0e60d0e/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-49a3a242f2a1496dbbd47a1fb0e60d0e",
+        "author": "OWL"
+      },
+      {
+        "uid": "d144f8350a56441db3d2e82396dcdb15",
+        "title": "台湾玉山",
+        "embedUrl": "https://sketchfab.com/models/d144f8350a56441db3d2e82396dcdb15/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-d144f8350a56441db3d2e82396dcdb15",
+        "author": "tangbinbin"
+      }
+    ]
+  },
+  "xianggang": {
+    "province": "香港",
+    "query": "香港 文武庙 ???",
+    "models": [
+      {
+        "uid": "859ea05a15fb4affbf17c30337aa5352",
+        "title": "Hong Kong Tong Lau 香港唐樓 building",
+        "embedUrl": "https://sketchfab.com/models/859ea05a15fb4affbf17c30337aa5352/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-859ea05a15fb4affbf17c30337aa5352",
+        "author": "jasonkwok1221"
+      },
+      {
+        "uid": "6fb73975aa6448299fe7b74903ad94cc",
+        "title": "PBR Hong Kong Ice Cream Mobile Softee 香港富豪雪糕車",
+        "embedUrl": "https://sketchfab.com/models/6fb73975aa6448299fe7b74903ad94cc/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-6fb73975aa6448299fe7b74903ad94cc",
+        "author": "Cola River"
+      },
+      {
+        "uid": "dd28d7936e6a43f1aa3846338ba0105f",
+        "title": "Hong Kong 香港仔",
+        "embedUrl": "https://sketchfab.com/models/dd28d7936e6a43f1aa3846338ba0105f/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-dd28d7936e6a43f1aa3846338ba0105f",
+        "author": "Sky Lim Universe"
+      }
+    ]
+  },
+  "aomen": {
+    "province": "澳门",
+    "query": "澳门 妈阁庙 ???",
+    "models": [
+      {
+        "uid": "dfc0b8f9fd8c443faae81fa1261f2e12",
+        "title": "澳门叠石塘山",
+        "embedUrl": "https://sketchfab.com/models/dfc0b8f9fd8c443faae81fa1261f2e12/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-dfc0b8f9fd8c443faae81fa1261f2e12",
+        "author": "tangbinbin"
+      },
+      {
+        "uid": "3721022002ee4d248f2af934a459fb60",
+        "title": "澳門鏡湖青年孫中山像 Statue Of Young Sun Yat-sen at Macao",
+        "embedUrl": "https://sketchfab.com/models/3721022002ee4d248f2af934a459fb60/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-3721022002ee4d248f2af934a459fb60",
+        "author": "Gwen Rein"
+      },
+      {
+        "uid": "58378bedf52149949cb24f3b565896be",
+        "title": "Sleeping Siren statue",
+        "embedUrl": "https://sketchfab.com/models/58378bedf52149949cb24f3b565896be/embed",
+        "viewerUrl": "https://sketchfab.com/3d-models/none-58378bedf52149949cb24f3b565896be",
+        "author": "Asashino"
+      }
+    ]
+  }
+}
